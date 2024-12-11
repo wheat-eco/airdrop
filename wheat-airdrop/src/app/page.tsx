@@ -11,7 +11,7 @@ export default function Home() {
       <header className="flex items-center justify-between p-4 md:p-6">
         <div className="flex items-center gap-2">
           <Image
-            src="/swhit-logo.png"
+            src="/wheatsol.jpg"
             alt="Wheat Logo"
             width={40}
             height={40}
@@ -52,7 +52,7 @@ export default function Home() {
           className="mb-12"
         >
           <Image
-            src="/swhit-logo.png"
+            src="/wheatsol.jpg"
             alt="Wheat Large Logo"
             width={200}
             height={200}
